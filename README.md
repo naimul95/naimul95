@@ -11,6 +11,15 @@
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=naimul95&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
+<h3 align="">SOCIALS :</h3>
+ <h1  align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimul-islam-477390389/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naimuul.dev95@gmail.com)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-111111?logo=dailydotdev&logoColor=white)](https://app.daily.dev/naimulislamnahid)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/naimul.nahid.95)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vodro_manush/)
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=naimul95&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
