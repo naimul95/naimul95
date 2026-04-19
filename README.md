@@ -28,7 +28,7 @@
   
 
 
-![](https://github-contributor-stats.vercel.app/api?username=naimul95&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+ ![](https://github-contributor-stats.vercel.app/api?username=naimul95&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 
 
